@@ -11,4 +11,4 @@ Just clone in your catkin workspace. You may need to install the hector_gazebo R
 
 ## License
 
-This software is provided by Génération Robots http://www.generationrobots.com and HumaRobotics http://www.humarobotics.com under the Simplified BSD license
+This software is provided by Génération Robots http://www.generationrobots.com and HumaRobotics http://www.humarobotics.com under the Simplified BSD license. Original software has been modified by Nathan Boyd.
